@@ -1,6 +1,6 @@
 # One-Click Image Saver
 
-One-Click Image Saver is a lightweight browser extension that allows you to save images instantly with a simple Ctrl+Left Click, developed and tested primarily for Microsoft Edge.
+One-Click Image Saver is a Microsoft Edge extension that allows users to save images instantly with a simple Ctrl+Left Click.
 
 ## Features
 
