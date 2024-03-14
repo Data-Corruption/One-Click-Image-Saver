@@ -27,4 +27,4 @@ Feel free to fork and customize. Open an issue for suggestions or improvements.
 
 Please respect copyright laws when using this extension. Only download images you have the rights or permissions to use. By using this extension, you agree to comply with applicable laws and website terms of service.
 
-[MIT License](LICENSE)
+[MIT License](LICENSE.md)
