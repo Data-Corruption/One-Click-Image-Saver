@@ -10,7 +10,7 @@ One-Click Image Saver is a Microsoft Edge extension that allows users to save im
 
 ## Installation
 
-Install One-Click Image Saver from the [Microsoft Edge Add-ons store]().
+Install One-Click Image Saver from the [Microsoft Edge Add-ons store](https://microsoftedge.microsoft.com/addons/detail/dapccjafmcleheonjepjdblfdmnejcip).
 
 ## Development
 
