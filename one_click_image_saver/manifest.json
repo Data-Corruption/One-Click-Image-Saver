@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "One-Click Image Saver",
-  "version": "1.0.0",
-  "description": "Save images instantly with Ctrl+Left Click",
+  "version": "1.2.0",
+  "description": "Save images instantly with Key Press + Left Click",
   "icons": {
     "16": "logo.png",
     "48": "logo.png",
@@ -11,7 +11,8 @@
   "permissions": [
     "activeTab",
     "scripting",
-    "downloads"
+    "downloads",
+    "storage"
   ],
   "background": {
     "service_worker": "background.js"
@@ -21,5 +22,9 @@
       "matches": ["<all_urls>"],
       "js": ["content.js"]
     }
-  ]
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "logo.png"
+  }
 }
